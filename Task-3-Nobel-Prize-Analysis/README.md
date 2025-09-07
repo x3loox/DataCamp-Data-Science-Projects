@@ -102,6 +102,16 @@ Repeat winners: ['Marie Curie', 'Linus Pauling', 'John Bardeen', ...]
 
 ---
 
+## 🙌 Author
+
+**AlaEldin Ali MohammedToum AbdElaziz**  
+🇸🇩 Sudanese, based in 🇪🇬 Egypt  
+- [LinkedIn](https://www.linkedin.com/in/x3loox/)  
+- GitHub: [x3loox](https://github.com/x3loox)  
+- Email: alaali123887@gmail.com
+
+---
+
 ## 📜 License
 
 This project is for **educational purposes only**.
