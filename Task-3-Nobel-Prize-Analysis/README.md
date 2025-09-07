@@ -44,7 +44,7 @@ The analysis answers the following:
 
 ## 📂 Project Structure  
 ```
-project/
+Task-3-Nobel-Prize-Analysis/
 │
 ├── data/
 │   └── nobel.csv
