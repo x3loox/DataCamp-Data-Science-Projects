@@ -94,7 +94,7 @@ Task-1-NYC-SAT-Analysis/
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/x3loox/DataCamp-Data-Science-Projects/Task-1-NYC-SAT-Analysis.git
+git clone https://github.com/x3loox/DataCamp-Data-Science-Projects/blob/main/Task-1-NYC-SAT-Analysis.git
 cd Task-1-NYC-SAT-Analysis
 ```
 
