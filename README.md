@@ -12,6 +12,7 @@ Each project applies real-world datasets to practice skills like data wrangling,
 | 1  | NYC Public School SAT Analysis  | Analyzed SAT performance across NYC schools & boroughs.             | pandas, statistics, filtering   | [View](./Task-1-NYC-SAT-Analysis) |
 | 2  | Netflix 1990s Movie Analysis    | Explored trends in 1990s movies: durations & genres.                | pandas, matplotlib, filtering   | [View](./Task-2-Netflix-1990s-Movie-Analysis) |
 | 3  | Nobel Prize Analysis            | Investigated Nobel laureates (1901–2023): gender, country, repeats. | pandas, seaborn, grouping       | [View](./Task-3-Nobel-Prize-Analysis) |
+| 4 | Modeling Car Insurance Claim Outcomes | Identified the strongest predictor of insurance claims using single-feature logistic regression for interpretable risk modeling. | pandas, numpy, statsmodels, logistic regression | [View](./Task-4-Modeling-Car-Insurance-Claim-Outcomes) |
 | …  | (updating)                      | More projects coming soon (14 total in track).                      | …                               | …         |
 
 ---
